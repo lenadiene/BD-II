@@ -1,0 +1,56 @@
+====================
+29
+Lena Larissa
+Lasanha
+Pizza
+Status: Pendente
+Garçom:
+Andre
+=============================================
+30
+Gabriel alves
+Lasanha
+Pizza
+Suco
+Status: Pendente
+Garçom:
+Andre
+========================================
+31
+Laura torres
+Lasanha
+Carne
+Status: Pendente
+Garçom:
+Andre
+========================================
+35
+Lena Carvalho
+Número da Mesa:
+====================
+36
+Cleide Novaes
+Número da Mesa:
+====================
+37
+Kaoa Sheron
+Número da Mesa:
+5
+Lasanha
+Suco
+
+Garçom:
+Lucas
+========================================
+2
+Nome do cliente:
+Lena Diene
+Número da Mesa:
+5
+Itens do pedido:
+Lasanha
+Suco
+
+Garçom:
+Andre
+====================
